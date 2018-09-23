@@ -1,6 +1,6 @@
 clear all
 capture log close
-cd "C:\Users\Isaac\Google Drive\FNMA"
+cd "C:\Users\Isaac\Documents\GitHub\soc-analysis"
 log using "Econ643 - Update", replace
 
 ******************************************************************
