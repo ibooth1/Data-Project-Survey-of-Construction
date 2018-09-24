@@ -10,6 +10,8 @@ conventional homebuyers we should be able to get some idea of how impactful it i
 challenges to ensuring the estimate is reliable. Some challenges can be overcome, others can perhaps be overlooked at least for this 
 analysis.
 
+[Link to the data source](https://www.census.gov/construction/chars/microdata.html)
+
 To view the code see the [Econ 643 - Update.do](https://github.com/ibooth1/soc-analysis/blob/master/Econ%20643%20-%20Update.do) file
 
 To view the written project download the [Work Sample - Isaac Booth.docx](https://github.com/ibooth1/soc-analysis/blob/master/Work%20Sample%20-%20Isaac%20Booth.docx) file
