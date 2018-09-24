@@ -22,4 +22,4 @@ To view the dictionary see the [socmicro_info.pdf](https://github.com/ibooth1/so
 
 To see the [FHA & Conventional Loan Distributions.gph](https://github.com/ibooth1/soc-analysis/blob/master/FHA%20%26%20Conventional%20Loan%20Distributions.gph) file download and open it in stata
 
-To see the data download and open the [soc17.xls](https://github.com/ibooth1/soc-analysis/blob/master/soc17.xls) file
+To see the data, download and open the [soc17.xls](https://github.com/ibooth1/soc-analysis/blob/master/soc17.xls) file
