@@ -2,7 +2,7 @@
 
 This project is an updated version of an analysis I did on the Census's Survey of Construction dataset
 
-To view the code see the .do file
+To view the code see the [Econ 643 - Update.do](https://github.com/ibooth1/soc-analysis/blob/master/Econ%20643%20-%20Update.do) file
 
 To view the written project download the .docx file
 
